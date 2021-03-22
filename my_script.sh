@@ -13,4 +13,4 @@ if [ 1 -eq "$ARG" ];then
 
 else
   echo false
-fi
+
