@@ -5,3 +5,8 @@
 ```bash
 echo 'my code block is awesome!'
 ```
+
+```python3
+def function():
+    print("The python3 code block")
+```
